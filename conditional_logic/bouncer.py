@@ -18,7 +18,7 @@ if age: # if age isn't empty
 else:
     print('Please enter an age!')
 
-# or
+# or refactor:
 
 age = input('How old are you: ')
 if age: # if age isn't empty
